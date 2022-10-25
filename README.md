@@ -1,2 +1,2 @@
-# pyrhon-assigmnet-basic
+# python-assigmnet-basic
 basics
