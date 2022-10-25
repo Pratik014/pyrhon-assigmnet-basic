@@ -1,2 +1,2 @@
-# python-assigmnet-basic
+# python-assigment-basic
 basics
